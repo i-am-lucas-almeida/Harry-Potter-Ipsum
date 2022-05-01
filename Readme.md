@@ -1,6 +1,6 @@
 # Harry Potter Ipsum 🧑🏻⚡
 
-<img style="margin: 20px auto;" src="preview.png">
+![127 0 0 1_5500_](https://user-images.githubusercontent.com/77863766/166153518-048be953-f422-4fe9-9ef9-c31aa7b609c7.png)
 
 ## Sobre
 
